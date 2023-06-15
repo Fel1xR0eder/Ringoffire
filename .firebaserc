@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ringoffire-c566d": {
+      "hosting": {
+        "ringoffire": [
+          "ringoffire-c566d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ringoffire-c566d"
+  }
+}
