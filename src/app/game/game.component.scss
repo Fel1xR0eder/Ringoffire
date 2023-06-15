@@ -110,6 +110,13 @@
     }
 }
 
+.preload-image {
+    opacity: 0;
+    z-index: -999;
+    height: 0px;
+    width: 0px;
+}
+
 app-player,
 app-player-mobile {
     cursor: pointer;
