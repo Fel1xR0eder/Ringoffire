@@ -9,5 +9,6 @@ export class PlayerComponent {
 
   @Input() name:any;
   @Input() playerActive: boolean = false;
+  @Input() image = 'profile_images';
 
 }
