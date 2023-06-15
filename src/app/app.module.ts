@@ -22,6 +22,7 @@ import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/compat/f
 import { HttpClientModule } from '@angular/common/http';
 import { AngularFireModule } from '@angular/fire/compat';
 import { environment } from 'src/environments/environment';
+import { PlayerMobileComponent } from './player-mobile/player-mobile.component';
 
 
 @NgModule({
@@ -32,6 +33,7 @@ import { environment } from 'src/environments/environment';
     PlayerComponent,
     DialogAddPlayerComponent,
     GameInfoComponent,
+    PlayerMobileComponent,
   ],
 
   imports: [

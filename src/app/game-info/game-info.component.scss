@@ -1,0 +1,14 @@
+mat-card {
+    @media (max-width: 720px) {
+        min-height: 80px;
+    }
+}
+
+mat-card-title {
+    padding: 0 16px;
+}
+
+mat-card-content {
+    display: inline-block;
+    width: 80vw;
+}
