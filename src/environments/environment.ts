@@ -1,11 +1,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCDW3jtvqsh9H-Wb3RGdOzEk7Yekj7BY-U',
-    authDomain: 'ringoffire-c566d.firebaseapp.com',
-    projectId: 'ringoffire-c566d',
-    storageBucket: 'ringoffire-c566d.appspot.com',
-    messagingSenderId: '799494311898',
-    appId: '1:799494311898:web:8b1edd271dba908e553ae3',
+    projectId: 'ringoffire-7d049',
+    appId: '1:169559351535:web:1c2e49046f73d08c6f7b1a',
+    storageBucket: 'ringoffire-7d049.appspot.com',
+    apiKey: 'AIzaSyCOQj-xIi_kgoFTPfs2rdZwkz0UTiXUyt8',
+    authDomain: 'ringoffire-7d049.firebaseapp.com',
+    messagingSenderId: '169559351535',
   },
 };

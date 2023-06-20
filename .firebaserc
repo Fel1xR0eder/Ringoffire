@@ -1,14 +1,16 @@
 {
+  "projects": {
+    "default": "ringoffire-7d049",
+    "ringoffire main": "ringoffire-7d049"
+  },
   "targets": {
-    "ringoffire-c566d": {
+    "ringoffire-7d049": {
       "hosting": {
         "ringoffire": [
-          "ringoffire-c566d"
+          "ringoffire-7d049"
         ]
       }
     }
   },
-  "projects": {
-    "default": "ringoffire-c566d"
-  }
+  "etags": {}
 }
